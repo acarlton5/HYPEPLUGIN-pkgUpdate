@@ -19,7 +19,7 @@ A [DankMaterialShell](https://github.com/AvengeMedia/DankMaterialShell) widget t
 ### From Plugin Registry (Recommended)
 
 ```bash
-dms plugins install pkgUpdate
+hype plugins install pkgUpdate
 # or use the Plugins tab in DMS Settings
 ```
 
